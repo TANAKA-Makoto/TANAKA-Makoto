@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="left"> 
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANAKA-Makoto&layout=compact&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=TANAKA-Makoto&show_icons=true&theme=dracula" />
+</p>
 
 <!--
 **TANAKA-Makoto/TANAKA-Makoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
